@@ -1,7 +1,7 @@
 {
-  "name": "valentine",
+  "name": "MeetToYou_100",
   "version": "1.0.0",
-  "description": "情人节",
+  "description": "MeetToYou_100",
   "main": "index.js",
   "scripts": {
     "start": "cross-env NODE_ENV=development webpack-dev-server --config ./webpack/webpack.config.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yacan8/valentine.git"
+    "url": "git+https://github.com/hu1243/MeetToYou_100.git"
   },
-  "author": "can.yang",
+  "author": "HYJ",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yacan8/valentine/issues"
+    "url": "https://github.com/hu1243/MeetToYou_100/issues"
   },
-  "homepage": "https://github.com/yacan8/valentine#readme",
+  "homepage": "https://github.com/hu1243/MeetToYou_100#readme",
   "dependencies": {
     "prismjs": "^1.17.1",
     "react": "16.0",
